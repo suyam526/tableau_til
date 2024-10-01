@@ -138,7 +138,7 @@
 <!-- 영역차트에 관해 배우게 된 점을 적어주세요 -->
 * 영역차트 : 라인과 축 사이의 공간이 색상으로 채워진 라인 차트
             연속형 데이터의 누계를 표현할 때 사용
-  
+<img width="959" alt="태블로 영역차트" src="https://github.com/user-attachments/assets/08dfa664-a998-4a10-8585-6be7dc296cab">
 
 
 ## 27강: 간트차트
@@ -204,6 +204,9 @@
 ```
 
 ![group](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/3rd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-18%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.33.47.png?raw=true)
+<img width="249" alt="태블로 그룹 1" src="https://github.com/user-attachments/assets/d6012b95-2296-4814-a9ab-5b4aa646082d">
+<img width="248" alt="태블로 그룹 2" src="https://github.com/user-attachments/assets/5be189b0-c85c-46c0-b1ce-f84c6d68c519">
+
 
 ```js
 해당 그룹별로 어떤 국가/지역이 주문을 많이 차지하는지를 보고자 합니다. 매출액보다는 주문량을 보고 싶으므로, 주문Id의 카운트로 계산하겠습니다.
@@ -212,3 +215,5 @@
 ```
 
 ![image](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/3rd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-18%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.37.55.png?raw=true)
+
+<img width="959" alt="태블로 그룹 3" src="https://github.com/user-attachments/assets/761aec17-b56f-423e-bfd4-b39e310d68ac">
