@@ -119,7 +119,9 @@
 
     - 계산 필드 내에 문자 값을 입력할 경우에는 '' (작은따옴표) 안에 입력해야함!!
     - 주석 작성 시 // 입력 후 작성
-
+![Tableau2](./image/week4/Tableau2.png)
+![Tableau3](./image/week4/Tableau3.png)
+![Tableau4](./image/week4/Tableau4.png)
     - Tableau의 2가지 계산 방식
         1. 행 수준 계산
         2. 집계 계산
@@ -196,6 +198,8 @@
 
 - 전년 대비 성장률 : 같은 월을 기준으로 이전 연도 대비 얼마 정도 성장했는지 살펴보는 데에 활용
 
+- YTD 성장률
+![Tableau12](./image/week4/Tableau12.png)
 
 
 ## 문제 1.
