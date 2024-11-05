@@ -234,6 +234,20 @@ FIXED : 현재 뷰의 차원과 상관없이 계산된 필드에서 원하는 �
 
 <!-- 여기까지 오는 과정 중 알게 된 점을 기입하고, 결과는 시트 명을 본인 이름으로 바꾸어 표시해주세요.-->
 
+1. DATEDIFF 함수를 사용하여 '배송까지 걸린 일수' 계산된 필드 만들기
+![TAB1](./image/week5/Tableau1.png) <br/>
+
+2. FIXED LOD 표현식을 사용하여 '나라별/범주별 평균 배송 일자' 계산된 필드 만들기
+![TAB2](./image/week5/Tableau2.png) <br/>
+
+3. 앞서 만든 두 필드를 비교하여 '배송 속도 수준' 만들기
+![TAB3](./image/week5/Tableau3.png) <br/>
+
+4. 행 선반에 '고객 이름', '제품 이름', '배송 속도 수준' 드래그
+마크 카드 색상에 '배송 속도 수준'
+마크 카드 텍스트에 '배송까지 걸린 일수'
+![TAB4](./image/week5/Tableau4.png) <br/>
+
 ## 문제 2.
 
 ```
@@ -244,4 +258,8 @@ FIXED : 현재 뷰의 차원과 상관없이 계산된 필드에서 원하는 �
  어떤 값이 각 지표의 평균보다 낮은 값을 갖고 있다면 색깔을 주황색으로, 그것보다 높다면 파란색으로 표시하고 싶어요. 그 평균값은 각 지표별로 달라야 해요.
 ```
 
-![Tab1] 
+![TAB5](./image/week5/Tableau5.png) <br/>
+![TAB6](./image/week5/Tableau6.png) <br/>
+![TAB7](./image/week5/Tableau7.png) <br/>
+![TAB8](./image/week5/Tableau8.png) <br/>
+![TAB9](./image/week5/Tableau9.png) <br/>
