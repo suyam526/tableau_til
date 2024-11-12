@@ -150,10 +150,13 @@
 **단, 워크시트 3개 이상의 그래프를 표시해야 하며 각 시트 간 상호작용성 필터 or 하이라이트 동작은 꼭 추가되어야 합니다**
 
 ![TAB2](./image/week6/Tableau2.png)<br/>
+--------------------------------
 
 ![TAB3](./image/week6/Tableau3.png)<br/>
+--------------------------------
 
 ![TAB4](./image/week6/Tableau4.png)<br/>
+--------------------------------
 ```
 상호작용성 필터로 'Sales by Country'에서 국가를 선택했을 때 해당 국가의 매출, top 5 profit product, top 5 loss product이 나오도록 설정함 
 ```
