@@ -92,7 +92,7 @@
 ![TAB18](./image/week7/Tableau18.png)<br/>
 ![TAB19](./image/week7/Tableau19.png)<br/>
 ![TAB20](./image/week7/Tableau20.png)<br/>
-- 대시보드 4번 복제해서 각 사진을 누르면 해당 대시보드로 이동하도록 하기
+- 대시보드 4번 복제해서 각 그래프 사진을 누르면 해당 대시보드로 이동하(는 것처럼 보이게)도록 하기 (그냥 하나하나 수작업..)
 ![TAB37](./image/week7/Tableau37.png)<br/>
 
 
