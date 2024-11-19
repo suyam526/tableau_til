@@ -97,6 +97,10 @@
 ## 62. 태블로 단추
 
 <!-- 태블로 단추 강의에서 알게 된 점을 적어주세요 -->
+![TAB21](./image/week7/Tableau21.png)<br/>
+![TAB22](./image/week7/Tableau22.png)<br/>
+![TAB23](./image/week7/Tableau23.png)<br/>
+![TAB24](./image/week7/Tableau24.png)<br/>
 
 ## 63. 막대그래프 드릴다운
 
