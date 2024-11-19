@@ -115,6 +115,8 @@
     1. category 집합 만들기
     2. if문으로 category 집합일 경우 sub-category로 드릴다운, 그렇지 않으면 category가 되는 함수 생성 (제목:드릴다운1)
     3. 계산된 필드 실행을 위한 동작 생성 ([워크시트]->[동작]->[동작 추가 '집합값 변경']->[선택, category 집합, 값 할당, 모든 값 제거] 선택)
+    4. [드릴다운1] 필드를 [마크] 선반의 [레이블] 마크에 추가
+    5. [드릴다운1] 필드를 가장 아래쪽에 위치시키기!!
 ![TAB35](./image/week7/Tableau35.png)<br/>
 ![TAB36](./image/week7/Tableau36.png)<br/>
 ![TAB26](./image/week7/Tableau26.png)<br/>
