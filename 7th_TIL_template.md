@@ -127,7 +127,15 @@
 ![TAB29](./image/week7/Tableau29.png)<br/>
 ![TAB30](./image/week7/Tableau30.png)<br/>
 ![TAB31](./image/week7/Tableau31.png)<br/>
+![TAB34](./image/week7/Tableau32.png)<br/>
+
+
+
+-----------------------------
+------------------------------
+
 ![TAB28](./image/week7/Tableau28.png)<br/>
+![TAB32](./image/week7/Tableau32.png)<br/>
 
 
 ---
