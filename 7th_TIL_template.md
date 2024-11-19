@@ -93,7 +93,7 @@
 ![TAB19](./image/week7/Tableau19.png)<br/>
 ![TAB20](./image/week7/Tableau20.png)<br/>
 - 대시보드 4번 복제해서 각 사진을 누르면 해당 대시보드로 이동하도록 하기
-![TAB21](./image/week7/Tableau21.png)<br/>
+![TAB37](./image/week7/Tableau37.png)<br/>
 
 
 ## 62. 태블로 단추
