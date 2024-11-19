@@ -111,6 +111,8 @@
 ## 64. 트리맵 드릴다운
 
 <!-- 트리맵 드릴다운에 대해 알게 된 점을 적어주세요 -->
+![TAB35](./image/week7/Tableau35.png)<br/>
+![TAB36](./image/week7/Tableau36.png)<br/>
 ![TAB26](./image/week7/Tableau26.png)<br/>
 
 ## 65. 파이 차트 드릴다운
