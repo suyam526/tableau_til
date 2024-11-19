@@ -25,10 +25,32 @@
 ## 58. 집합값 변경
 
 <!-- 집합값 변경 강의에서 알게 된 점을 적어주세요 -->
+![TAB2](./image/week7/Tableau2.png)<br/>
+
+- 해당 하위 범주 내에서 제조업체가 만드는 제품 보기 ('대시보드'->'동작')
+![TAB3](./image/week7/Tableau3.png)<br/>
+![TAB1](./image/week7/Tableau1.png)<br/>
+![TAB5](./image/week7/Tableau1.png)<br/>
+
+- 제품 하위 범주 내에서 제조업체가 만드는 제품 보기 ('대시보드'->'동작')
+![TAB4](./image/week7/Tableau4.png)<br/>
+![TAB6](./image/week7/Tableau6.png)<br/>
+
+- 수익성 대시보드(full 대시보드)에서 하위범주 그래프 클릭했을 때 시트로 이동 동작 추가하는 방법 ('대시보드'->'동작')
+![TAB7](./image/week7/Tableau7.png)<br/>
+
+- 대시보드로 돌아가기 버튼 만드는 방법
+![TAB8](./image/week7/Tableau8.png)<br/>
+![TAB9](./image/week7/Tableau9.png)<br/>
+
+
+
 
 ## 59강. 스토리패널
 
 <!-- 스토리패널 강의에서 알게 된 점을 적어주세요 -->
+
+
 
 ## 60. 스토리
 
