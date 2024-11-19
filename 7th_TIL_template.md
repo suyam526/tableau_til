@@ -126,6 +126,7 @@
     - 좌측 사이드 바에서 [국가/지역] 필드 우클릭 -> [만들기] -> [집합]
 ![TAB29](./image/week7/Tableau29.png)<br/>
 ![TAB30](./image/week7/Tableau30.png)<br/>
+![TAB31](./image/week7/Tableau31.png)<br/>
 ![TAB28](./image/week7/Tableau28.png)<br/>
 
 
